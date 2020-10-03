@@ -1,0 +1,30 @@
+
+Ice Cream Shoppe:
+  Body:
+    Text: The body is lying under the dispensers of the soft serve machine, and is covered in ice cream.
+  Soft Serve Machine:
+    Text: The handles of the soft serve machine have been pulled down to constantly produce ice cream. They are kept this way by a rope that is also tied to the body.
+  Hands:
+    Text: The hands of the body have been removed and placed on the counter, but the pinkies are nowhere to be found.
+  Knife:
+    Text: A knife has been stabbed into the chest of the body. It is serrated and doesn’t seem like the kind you’d find in the kitchen.
+  Ice Cream Cone:
+    Text: An ice cream has been shoved down the victim’s throat
+  Rope:
+    Text: The rope used to hold down the machine handles seems to be tied weirdly around the body, and one end of it is frayed as if it has been cut.
+
+
+Main Lobby:
+  Body:
+    Text: Zada’s body is lying on the floor rather unceremoniously
+    Next:
+      Neck:
+        Text: There is major rope burn around her neck, but the rope isn’t attached.
+      Stomach:
+        Text: The stomach of the victim has been ripped open, and their guts have been strewn around
+  Chandelier:
+    Text: Attached to the chandelier is a portion of rope. It’s been cut on the end not tied to the chandelier
+  Paper Scraps:
+    Text: There are bits of paper scraps strewn around the body like Parmesan on spaghetti. You can’t read what it says though, as blood has soaked into the paper
+
+
